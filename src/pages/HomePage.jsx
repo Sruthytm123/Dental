@@ -1,11 +1,10 @@
 import React, { useState } from 'react'
-import TopBar from './Topbar'
-import { CarouselDefault } from './Banner'
-import ProductSec from './ProductsSec'
-import Brand from './Brand';
-import Footer from './Footer';
-import Header from './Header';
-import ToggleBar from './ToggleBar';
+import TopBar from '../components/Topbar'
+import { CarouselDefault } from '../components/Banner'
+import ProductSec from '../components/ProductsSec'
+import Brand from '../components/Brand';
+import Footer from '../components/Footer';
+import Header from '../components/Header';
 
 function HomePage() {
 

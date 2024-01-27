@@ -1,7 +1,5 @@
 
-import { ToggleButton, ToggleButtonGroup } from '@mui/material'
 import React from 'react'
-import { IoMdMenu } from "react-icons/io";
 import ToggleBar from './ToggleBar';
 
 function TopBar() {

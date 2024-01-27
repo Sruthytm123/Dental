@@ -1,8 +1,6 @@
 import React, { useEffect, useState } from 'react'
-import Button from  '../Button';
 import { Link } from 'react-router-dom';
-import { cartData } from '../Array';
-import Header from '../Header';
+import Header from '../components/Header';
 
 const AddtoCart = () => {
 
