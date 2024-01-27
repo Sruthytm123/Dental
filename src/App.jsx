@@ -15,7 +15,7 @@ function App() {
           <Route path='/' element = {<HomePage />}/>
           <Route path='/login' element = {<Login />}/>
           <Route path='/settings' element = {<Settings />}/>
-          <Route path="*" element={<Navigate to="/admin" replace />} />
+          <Route path="*" element={<Navigate to="/" replace />} />
        </Routes> 
     </>
   )
